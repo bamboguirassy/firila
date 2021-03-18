@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fondation-75e30": {
+      "hosting": {
+        "fondation": [
+          "fondation-75e30"
+        ]
+      }
+    }
+  }
+}
